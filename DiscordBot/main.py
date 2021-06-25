@@ -6,7 +6,7 @@ import asyncio
 import random
 from itertools import cycle
 
-TOKEN = 'NTAwNzIzMDMwNTQxMDc0NDcz.DqPBWA.zvDSMNLhgZrgDPs6wcmhi6r8QZs'
+TOKEN = 'CANT POST THE TOKEN ONLINE :('
 bot = commands.Bot(command_prefix = ";")
 bot.remove_command('help')
 playing = bot.change_presence(game=discord.Game(name='Type $commands for Commands'))
