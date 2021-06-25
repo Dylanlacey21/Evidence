@@ -1,0 +1,8 @@
+Here Are Your Commands:
+================================================================
+
+help  --  Displays ALL Commands
+
+login  --  log-in to a account
+
+register -- register an account

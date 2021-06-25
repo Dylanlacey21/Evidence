@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Lightweight Terminal Markdown Renderer"
+name = "mdvl"
+optional = false
+python-versions = "*"
+version = "2017.7.16.7"
+
+[metadata]
+content-hash = "0c11f6297391128ab88fec0a8a5990d7854de6886b4b78c985bdf707efe54dd0"
+python-versions = "^3.8"
+
+[metadata.files]
+mdvl = [
+    {file = "mdvl-2017.7.16.7-py2-none-any.whl", hash = "sha256:6ae2e52fe2070515b80e811064ca79bb8968841d53910f8b41ec25f89dd16aa0"},
+    {file = "mdvl-2017.7.16.7.tar.gz", hash = "sha256:04d4dc49047c11642da147c7799b5aac8b48b664e146f0a12c0d8bd75c0971b3"},
+]
